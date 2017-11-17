@@ -155,7 +155,7 @@ a:hover {
 #logo a {
 	background: url('images/apollologo.png') no-repeat;
 	display: block;
-	height: 32px;
+	height: 50px;
 	width: 97px;
 }
 #logo a:active,#logo a:focus {
