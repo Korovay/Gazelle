@@ -147,16 +147,16 @@ a:hover {
 	float: left;
 	margin-right: 40px;
 	width: 158px;
-	margin-top: 91px;
+	margin-top: 80px;
 }
 * html #logo {
 	overflow-x: hidden;
 }
 #logo a {
-	background: url('https://i.imgur.com/khWts8R.png') no-repeat;
+	background: url('https://i.imgur.com/joo5Qm5.png') no-repeat;
 	display: block;
-	height: 32px;
-	width: 97px;
+	height: 40px;
+	width: 150px;
 }
 #logo a:active,#logo a:focus {
 	outline: 0;
